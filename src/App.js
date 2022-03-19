@@ -20,7 +20,7 @@ function LoadCountries() {
 
   return (
     <div>
-      <h1>Search Countries of the World</h1>
+      <h1>Watching Countries of the World</h1>
       <p>{countries.length}</p>
       
       {countries.map(country=> <Country name={country.name.common} population={country.population}></Country>)}
