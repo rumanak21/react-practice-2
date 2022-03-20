@@ -1,0 +1,13 @@
+
+
+.menu {
+    margin: 50px;
+    /* text-decoration: none; */
+}
+
+.menu a{
+    margin: 20px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
